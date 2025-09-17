@@ -58,42 +58,42 @@
   <!-- Hero / Intro -->
   <section id="home">
     <h1>Your Name</h1>
-    <p>Welcome to my personal website. This is a minimal GitHub Pages template with placeholders for your content.</p>
+    <p>Welcome to my personal website. </p>
   </section>
 
   <!-- About Section -->
   <section id="about">
     <h2>About Me</h2>
-    <p>[Placeholder: Write a short bio, background, and interests.]</p>
+    <p>[Placeholder]</p>
   </section>
 
   <!-- Projects Section -->
   <section id="projects">
     <h2>Projects</h2>
     <ul>
-      <li><strong>Project 1:</strong> [Short description]</li>
-      <li><strong>Project 2:</strong> [Short description]</li>
-      <li><strong>Project 3:</strong> [Short description]</li>
+      <li><strong>Project 1:</strong></li>
+      <li><strong>Project 2:</strong></li>
+      <li><strong>Project 3:</strong></li>
     </ul>
   </section>
 
   <!-- Resume Section -->
   <section id="resume">
     <h2>Resume</h2>
-    <p>[Placeholder: Add link to your resume PDF or embed details here.]</p>
+    <p>[Placeholder: resume]</p>
   </section>
 
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+    <p>Email: <a href="mailto:myu3@andrew.cmu.edu">your.email@example.com</a></p>
     <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
     <p>GitHub: <a href="#">github.com/yourusername</a></p>
   </section>
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 Your Name. All Rights Reserved.</p>
+    <p>&copy; 2025 Mingyang Yu. All Rights Reserved.</p>
   </footer>
 </body>
 </html>
