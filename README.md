@@ -72,7 +72,7 @@
 
   <!-- Project 1 -->
   <div class="project">
-    <img src="images/friction_test.png" alt="Friction Test Setup" />
+    <img src="image/1.png" alt="Friction Test Setup" />
     <h3>Friction Test Setup & Analysis</h3>
     <p>
       This project investigates how different geometric shapes and sizes influence frictional performance in a vacuum-based gripping system. Understanding these effects has strong practical value, as improving friction characteristics directly enhances the reliability and safety of robotic manipulation tasks—particularly in industrial and automated environments. The objective of the project is to design, build, and evaluate a controlled friction-testing setup and to determine which sample geometry yields the most stable and robust frictional force.
@@ -81,7 +81,7 @@
 
   <!-- Project 2 -->
   <div class="project">
-    <img src="images/robot_control.png" alt="LocoTouch" />
+    <img src="image/2.png" alt="LocoTouch" />
     <h3>Real Robot Control Framework</h3>
     <p>
       While recent advances in quadrupedal locomotion have enabled agile and robust mobility, sustained object interaction remains a challenge due to the absence of physical contact feedback. To address this limitation, we present LocoTouch, a novel quadrupedal system equipped with tactile sensing for dynamic, contact- rich transport of unsecured objects. We design a high-density, distributed tactile sensor that covers the robot’s back, enabling large-area contact perception. To facilitate effective sim-to-real transfer, we develop a high-fidelity tactile simulation method that captures the spatial coupling effects inherent in soft, distributed tactile sensors. Additionally, we introduce an adaptive symmetric gait reward that guides the policy to learn stable, symmetric, and frequency-adaptive locomotion, enabling agile behaviors during object transport. LocoTouch achieves zero-shot transfer to real-world deployment and robustly balances and transports a wide range of everyday objects with diverse physical properties. Extensive experiments in both simulation and real robots validate the effectiveness of our system and highlight the potential of tactile sensing for advancing dynamic, contact-rich interaction in quadrupedal robots.
@@ -90,7 +90,7 @@
 
   <!-- Project 3 -->
   <div class="project">
-    <img src="images/tdmpc.png" alt="Human2Locoman" />
+    <img src="image/3.png" alt="Human2Locoman" />
     <h3>TD-MPC Reinforcement Learning Implementation</h3>
     <p>
       Quadrupedal robots have demonstrated impressive locomotion capabilities in complex environments, but equipping them with autonomous versatile manipulation skills in a scalable way remains a significant challenge. In this work, we introduce a cross-embodiment imitation learning system for quadrupedal manipulation, leveraging data collected from both humans and LocoMan, a quadruped equipped with multiple manipulation modes. Specifically, we develop a teleoperation and data collection pipeline, which unifies and modularizes the observation and ac- tion spaces of the human and the robot. To effectively leverage the collected data, we propose an efficient modularized architecture that supports co training and pretraining on structured modality- aligned data across different embodiments. Additionally, we construct the first manipulation dataset for the LocoMan robot, covering various household tasks in both unimanual and biman- ual modes, supplemented by a corresponding human dataset. We validate our system on six real-world manipulation tasks, where it *Authors contributed equally to this work. achieves an average success rate improvement of 41.9% overall and 79.7% under out-of-distribution (OOD) settings compared to the baseline. Pretraining with human data contributes a 38.6% success rate improvement overall and 82.7% under OOD settings, enabling consistently better performance with only half the amount of robot data.
@@ -100,7 +100,7 @@
   
   <!-- Project 4 -->
   <div class="project">
-    <img src="images/tdmpc.png" alt="DiffTORI Modification" />
+    <img src="image/4.png" alt="DiffTORI Modification" />
     <h3>TD-MPC Reinforcement Learning Implementation</h3>
     <p>
       DiffTORI integrates model-based reinforcement learning with differ- entiable trajectory optimization but struggles with robustness due to fixed hori- zons, shallow latent models, and simple feed-forward networks. We propose dy- namic horizon selection methods, a deeper residual MLP architecture, and vari- ational latent-space regularization to enhance convergence and gradient propaga- tion. Experiments reveal improved sample efficiency and stability from adaptive horizons and residual networks, while variational regularization exposes trade-offs between precision and latent structure.
