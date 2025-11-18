@@ -57,14 +57,15 @@
 
   <!-- Hero / Intro -->
   <section id="home">
-    <h1>Your Name</h1>
+    <h1>Mingyang Yu</h1>
     <p>Welcome to my personal website. </p>
   </section>
 
   <!-- About Section -->
   <section id="about">
     <h2>About Me</h2>
-    <p>[Placeholder]</p>
+    <p>I'm a second-year master student of the Mechanical Engineering Department at Carnegie Mellon University, where I work with Professor Ding Zhao. My research interest is in the broad disciplines related to locomotion, tele-operation, and sim2real in robotics.
+    I did my undergraduate at the University of Illinois Urbana-Champaign </p>
   </section>
 
 <section id="projects">
@@ -113,7 +114,7 @@
   <!-- Resume Section -->
   <section id="resume">
     <h2>Resume</h2>
-    <p>[Placeholder: resume]</p>
+    <a href="resume.pdf" target="_blank">Download My Resume</a>
   </section>
 
   <!-- Contact Section -->
